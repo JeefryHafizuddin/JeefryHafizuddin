@@ -36,7 +36,6 @@ Click any symbol to open its subreddit.
 
 [![Email](https://img.shields.io/badge/-Email-1f2937?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeefryhafizuddin@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-1f2937?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the.only_jeff)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1f2937?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 
 <p align="center">
   <img src="PASTE-YOUR-GIF-LINK-HERE.gif" width="400" alt="Y2K computer GIF">
